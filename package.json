@@ -1,4 +1,11 @@
 {
+  "name": "my-sugaku-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game_test2.js",
+  "scripts": {
+    "start": "node game_test2.js"
+  },
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
